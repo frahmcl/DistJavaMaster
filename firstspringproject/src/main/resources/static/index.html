@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Athletes</title>
+</head>
+<body>
+<h1>Welcome to Athlete Lister!</h1>
+<h3>Athletes In Database:</h3>
+<span id="stuff"></span>
+<script>
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.onreadystatechange = function ()
+    {
+        if (this.readyState == 4 && this.status == 200)
+        {
+            var myObj = JSON.parse(this.responseText);
+            var content = "<table>";
+            for (var property in myObj)
+            {
+                if (myObj.hasOwnProperty(property))
+                {
+                    content += "<tr><td>"
+                        + myObj[property].name
+                        + "</td><td>"
+                        + myObj[property].sport
+                        + "</td><td>"
+                        + myObj[property].team
+                        + "</td></tr>";
+                }
+            }
+            content += "</table>"
+            document.getElementById("stuff").innerHTML = content;
+        }
+    };
+    xmlhttp.open("GET", "/athletes", true);
+    xmlhttp.send(); </script>
+</body>
+</html>

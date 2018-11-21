@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="FrahmStores - Copy">
+    <output-path>$PROJECT_DIR$/out/artifacts/FrahmStores___Copy</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="FrahmStores - Copy" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="FrahmStores - Copy/web/Web" />
+      <element id="javaee-facet-resources" facet="FrahmStores - Copy/web/Web" />
+    </root>
+  </artifact>
+</component>

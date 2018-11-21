@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="StoreWithDB">
+    <output-path>$PROJECT_DIR$/out/artifacts/StoreWithDB</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="StoreWithDB" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="application" name="derby" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="StoreWithDB/web/Web" />
+    </root>
+  </artifact>
+</component>

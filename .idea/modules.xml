@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DBConsole/DBConsole.iml" filepath="$PROJECT_DIR$/DBConsole/DBConsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DBSample/DBSample.iml" filepath="$PROJECT_DIR$/DBSample/DBSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DBSample/DatabaseStore/DatabaseStore.iml" filepath="$PROJECT_DIR$/DBSample/DatabaseStore/DatabaseStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DistributedJava.iml" filepath="$PROJECT_DIR$/.idea/DistributedJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ELProject/ELProject.iml" filepath="$PROJECT_DIR$/ELProject/ELProject.iml" />
+      <module fileurl="file://C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/FrahmStores - Copy.iml" filepath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/FrahmStores - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSPCookie/JSPCookie.iml" filepath="$PROJECT_DIR$/JSPCookie/JSPCookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSPEL/JSPEL.iml" filepath="$PROJECT_DIR$/JSPEL/JSPEL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSTLProject/JSTLProject.iml" filepath="$PROJECT_DIR$/JSTLProject/JSTLProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NameMVC/NameMVC.iml" filepath="$PROJECT_DIR$/NameMVC/NameMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleMVCWithCart/SampleMVCWithCart.iml" filepath="$PROJECT_DIR$/SampleMVCWithCart/SampleMVCWithCart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondServlet/SecondServlet.iml" filepath="$PROJECT_DIR$/SecondServlet/SecondServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StoreWithDB/StoreWithDB.iml" filepath="$PROJECT_DIR$/StoreWithDB/StoreWithDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstspringproject/firstspringproject.iml" filepath="$PROJECT_DIR$/firstspringproject/firstspringproject.iml" />
+    </modules>
+  </component>
+</project>
