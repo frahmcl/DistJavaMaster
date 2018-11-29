@@ -7,20 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d48291c4-5ad9-4c93-afe7-f2aff1d61609" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Controllers/Genre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Controllers/GenreController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Services/GenreService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genres/src/main/resources/static/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genres/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genres/src/main/resources/static/update.html" afterDir="false" />
       <change afterPath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/FrahmStores - Copy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/.idea/artifacts/NameMVC_war_exploded.xml" beforeDir="false" afterPath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/.idea/artifacts/NameMVC_war_exploded.xml" afterDir="false" />
       <change beforePath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/.idea/workspace.xml" beforeDir="false" afterPath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/.idea/workspace.xml" afterDir="false" />
       <change beforePath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/NameMVC.iml" beforeDir="false" afterPath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/NameMVC.iml" afterDir="false" />
@@ -117,7 +104,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Controllers/GenreController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
+            <state relative-caret-position="165">
               <caret line="28" column="88" selection-start-line="28" selection-start-column="88" selection-end-line="28" selection-end-column="88" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -258,110 +245,6 @@
               <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="genres" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="genres" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="genres" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="genres" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="genres" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="genres" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="genres" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="genres" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="genres" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="genres" type="462c0819:PsiDirectoryNode" />
-              <item name="Services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="genres" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="genres" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="StoreWithDB" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="StoreWithDB" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="StoreWithDB" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mattgreen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="StoreWithDB" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mattgreen" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="StoreWithDB" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -377,8 +260,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543460680980" />
-    <property name="last_opened_file_path" value="C:/WCTC/Fall 2018/11_26MattsProject" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543460958889" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -1138,18 +1021,17 @@
       <workItem from="1542766576999" duration="2597000" />
       <workItem from="1543264757877" duration="599000" />
       <workItem from="1543280587678" duration="5229000" />
-      <workItem from="1543458691479" duration="1769000" />
+      <workItem from="1543458691479" duration="2113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48836000" />
+    <option name="totallyTimeSpent" value="49180000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.20272315" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.20272315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1159,7 +1041,7 @@
       <window_info id="Web" order="7" sideWeight="0.5016234" side_tool="true" weight="0.18603411" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32952183" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.75" visible="true" weight="0.35846153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.75" visible="true" weight="0.35846153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1565,7 +1447,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Controllers/GenreController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
+        <state relative-caret-position="165">
           <caret line="28" column="88" selection-start-line="28" selection-start-column="88" selection-end-line="28" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
