@@ -7,13 +7,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d48291c4-5ad9-4c93-afe7-f2aff1d61609" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Controllers/Genre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Controllers/GenreController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Services/GenreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genres/src/main/resources/static/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genres/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/genres/src/main/resources/static/update.html" afterDir="false" />
       <change afterPath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/FrahmStores - Copy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/.idea/artifacts/NameMVC_war_exploded.xml" beforeDir="false" afterPath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/.idea/artifacts/NameMVC_war_exploded.xml" afterDir="false" />
       <change beforePath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/.idea/workspace.xml" beforeDir="false" afterPath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/.idea/workspace.xml" afterDir="false" />
       <change beforePath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/NameMVC.iml" beforeDir="false" afterPath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/NameMVC.iml" afterDir="false" />
       <change beforePath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/web/productList.jsp" beforeDir="false" afterPath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/web/productList.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/firstspringproject/target/" />
+    <ignored path="$PROJECT_DIR$/genres/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,31 +38,33 @@
     <session id="693198668">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="1" />
-          <entry key="java" value="79" />
+          <entry key="html" value="5" />
+          <entry key="java" value="85" />
           <entry key="jsp" value="30" />
-          <entry key="xml" value="8" />
+          <entry key="xml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
-          <entry key="JAVA" value="79" />
+          <entry key="HTML" value="5" />
+          <entry key="JAVA" value="85" />
           <entry key="JSP" value="30" />
-          <entry key="XML" value="8" />
+          <entry key="XML" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -56,8 +72,8 @@
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="118" />
-          <entry key="JAVA" value="1017" />
+          <entry key="HTML" value="439" />
+          <entry key="JAVA" value="1454" />
           <entry key="JSP" value="3112" />
           <entry key="PLAIN_TEXT" value="21" />
           <entry key="XML" value="229" />
@@ -67,8 +83,8 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="21" />
-          <entry key="html" value="118" />
-          <entry key="java" value="1017" />
+          <entry key="html" value="439" />
+          <entry key="java" value="1454" />
           <entry key="jsp" value="3112" />
           <entry key="xml" value="229" />
         </counts>
@@ -76,59 +92,66 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstspringproject/src/main/java/us/chrisfrahm/firstspringproject/FirstspringprojectApplication.java">
+        <entry file="file://$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Controllers/Genre.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="289">
+              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/genres/src/main/resources/static/add.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/firstspringproject/src/main/resources/static/index.html">
+        <entry file="file://$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Controllers/GenreController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstspringproject/src/main/java/us/chrisfrahm/firstspringproject/Athlete.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
-              <folding>
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#330#331#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstspringproject/src/main/java/us/chrisfrahm/firstspringproject/AthleteController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="267">
+              <caret line="28" column="88" selection-start-line="28" selection-start-column="88" selection-end-line="28" selection-end-column="88" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Services/GenreService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/genres/src/main/resources/static/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/genres/src/main/resources/static/update.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -144,8 +167,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>genres</find>
+      <find>teams</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>genres</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -181,6 +213,13 @@
         <option value="$PROJECT_DIR$/firstspringproject/src/main/java/us/chrisfrahm/firstspringproject/AthleteController.java" />
         <option value="$PROJECT_DIR$/firstspringproject/src/main/java/us/chrisfrahm/firstspringproject/Athlete.java" />
         <option value="$PROJECT_DIR$/firstspringproject/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Controllers/Genre.java" />
+        <option value="$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/GenreService/GenreService.java" />
+        <option value="$PROJECT_DIR$/genres/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Services/GenreService.java" />
+        <option value="$PROJECT_DIR$/genres/src/main/resources/static/add.html" />
+        <option value="$PROJECT_DIR$/genres/src/main/resources/static/update.html" />
+        <option value="$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Controllers/GenreController.java" />
       </list>
     </option>
   </component>
@@ -203,12 +242,15 @@
     <option name="width" value="1382" />
     <option name="height" value="784" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,31 +261,25 @@
             <path>
               <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="firstspringproject" type="462c0819:PsiDirectoryNode" />
+              <item name="genres" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="firstspringproject" type="462c0819:PsiDirectoryNode" />
-              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="firstspringproject" type="462c0819:PsiDirectoryNode" />
+              <item name="genres" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="firstspringproject" type="462c0819:PsiDirectoryNode" />
+              <item name="genres" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="firstspringproject" type="462c0819:PsiDirectoryNode" />
+              <item name="genres" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -251,16 +287,36 @@
             <path>
               <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="firstspringproject" type="462c0819:PsiDirectoryNode" />
+              <item name="genres" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="firstspringproject" type="462c0819:PsiDirectoryNode" />
+              <item name="genres" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="firstspringproject" type="462c0819:PsiDirectoryNode" />
+              <item name="genres" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="genres" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="genres" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="genres" type="462c0819:PsiDirectoryNode" />
+              <item name="Services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
+              <item name="genres" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -268,7 +324,11 @@
             <path>
               <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="DistributedJava" type="462c0819:PsiDirectoryNode" />
-              <item name="JSTLProject" type="462c0819:PsiDirectoryNode" />
+              <item name="genres" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DistributedJava" type="b2602c69:ProjectViewProjectNode" />
@@ -306,7 +366,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,8 +377,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542768602183" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543460259043" />
+    <property name="last_opened_file_path" value="C:/WCTC/Fall 2018/11_26MattsProject" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -345,7 +405,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.FirstspringprojectApplication">
+  <component name="RunManager" selected="Spring Boot.GenresApplication">
     <configuration name="DBSample" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="DBSample" />
@@ -1028,6 +1088,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GenresApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="genres" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="us.frahm.genres.GenresApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.DBSample" />
       <item itemvalue="GlassFish Server.ELProject" />
@@ -1039,9 +1106,10 @@
       <item itemvalue="GlassFish Server.StoreWithDB" />
       <item itemvalue="GlassFish Server.JSTLProject" />
       <item itemvalue="GlassFish Server.FrahmStoresCopy" />
+      <item itemvalue="Spring Boot.FirstspringprojectApplication" />
+      <item itemvalue="Spring Boot.GenresApplication" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Spring Boot.FirstspringprojectApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -1067,18 +1135,21 @@
       <workItem from="1542582134800" duration="14032000" />
       <workItem from="1542599654239" duration="4152000" />
       <workItem from="1542676519164" duration="276000" />
-      <workItem from="1542766576999" duration="1993000" />
+      <workItem from="1542766576999" duration="2597000" />
+      <workItem from="1543264757877" duration="599000" />
+      <workItem from="1543280587678" duration="5229000" />
+      <workItem from="1543458691479" duration="1769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40635000" />
+    <option name="totallyTimeSpent" value="48836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.19364598" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.20272315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1086,7 +1157,6 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" sideWeight="0.5016234" side_tool="true" weight="0.18603411" />
-      <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32952183" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.75" visible="true" weight="0.35846153" />
@@ -1101,7 +1171,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1111,6 +1181,7 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.18603411" />
@@ -1153,38 +1224,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/studentdata/edu/wctc/studentdata/Main.java" />
-    <entry file="file://$PROJECT_DIR$/SimpleServlet/src/edu/wctc/simple/SimpleServlet.java" />
-    <entry file="file://$PROJECT_DIR$/SimpleServlet/src/edu/wctc/simple/Main.java" />
-    <entry file="file://$PROJECT_DIR$/SecondServlet/src/edu/wctc/simple/SimpleServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SampleMVCWithCart/src/us/matt/controller/CatalogController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NameMVC/src/us/mattgreen/controller/NameController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DrinkAdvisor/src/us/mattgreen/beer/controller/BeerSelectionController.java" />
-    <entry file="file://$PROJECT_DIR$/JSPEL/src/us/green/controller/HomeServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSTLProject/src/conference/Attendee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1444,6 +1483,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/firstspringproject/src/main/java/us/chrisfrahm/firstspringproject/FirstspringprojectApplication.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstspringproject/src/main/java/us/chrisfrahm/firstspringproject/AthleteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstspringproject/src/main/java/us/chrisfrahm/firstspringproject/Athlete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstspringproject/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstspringproject/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/GenresApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
@@ -1452,41 +1522,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstspringproject/src/main/java/us/chrisfrahm/firstspringproject/AthleteController.java">
+    <entry file="file://$PROJECT_DIR$/genres/src/main/resources/static/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="483">
+          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genres/src/main/resources/static/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Controllers/Genre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Services/GenreService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstspringproject/src/main/java/us/chrisfrahm/firstspringproject/Athlete.java">
+    <entry file="file://$PROJECT_DIR$/genres/src/main/resources/static/update.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstspringproject/src/main/resources/static/index.html">
+    <entry file="file://$PROJECT_DIR$/genres/src/main/java/us/frahm/genres/Controllers/GenreController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        <state relative-caret-position="267">
+          <caret line="28" column="88" selection-start-line="28" selection-start-column="88" selection-end-line="28" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="firstspringproject" />
+        <module name="genres" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="firstspringproject" target="1.8" />
+      <module name="genres" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

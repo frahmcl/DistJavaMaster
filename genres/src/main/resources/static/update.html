@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Genres</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+<form id="theGenre">
+    <div>Genre: <input type="text" name="genre" id="genre"></div>
+    <div>Rating: <input type="text" name="rating" id="rating"></div>
+    <div>
+        <button type="button" id="updateGenre">Update Genre</button>
+    </div>
+</form>
+<script>
+    $("#updateGenre").on("click" ,function( event ) {
+
+        var finishedMessage="{";
+        var message = $("#theGenre").serializeArray();
+        $.each(message,function (i,field) {
+            finishedMessage+="\"" + field.name + "\":\"" + field.value + "\",";
+        });
+        finishedMessage =finishedMessage.substring(0,finishedMessage.length - 1) + "}";
+
+        var oReq = new XMLHttpRequest();
+        oReq.open("PUT", "/genres/"+ $("#genre").val());
+        oReq.setRequestHeader("Content-Type", "application/json");
+        oReq.send(finishedMessage);
+        console.log(finishedMessage);
+    });
+</script>
+
+<form id="dGenreForm">
+    <div>Genre: <input type="text" name="genre" id="dGenre"></div>
+    <div>
+        <button type="button" id="deleteGenre">Delete Genre</button>
+    </div>
+</form>
+<script>
+    $("#deleteGenre").on("click" ,function(event) {
+        var genre = $("#dGenre").val();
+        var oReq = new XMLHttpRequest();
+        oReq.open("DELETE", "/genres/"+ genre);
+        oReq.setRequestHeader("Content-Type", "application/json");
+        oReq.send();
+    });
+</script>
+</body>
+</html>
