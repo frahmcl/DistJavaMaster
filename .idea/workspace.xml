@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d48291c4-5ad9-4c93-afe7-f2aff1d61609" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change afterPath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/FrahmStores - Copy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/.idea/artifacts/NameMVC_war_exploded.xml" beforeDir="false" afterPath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/.idea/artifacts/NameMVC_war_exploded.xml" afterDir="false" />
       <change beforePath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/.idea/workspace.xml" beforeDir="false" afterPath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/.idea/workspace.xml" afterDir="false" />
       <change beforePath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/NameMVC.iml" beforeDir="false" afterPath="C:/WCTC/Fall 2018/DistJavaMaster/FrahmStores - Copy/NameMVC.iml" afterDir="false" />
@@ -60,7 +60,7 @@
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="439" />
+          <entry key="HTML" value="484" />
           <entry key="JAVA" value="1454" />
           <entry key="JSP" value="3112" />
           <entry key="PLAIN_TEXT" value="21" />
@@ -71,7 +71,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="21" />
-          <entry key="html" value="439" />
+          <entry key="html" value="484" />
           <entry key="java" value="1454" />
           <entry key="jsp" value="3112" />
           <entry key="xml" value="229" />
@@ -117,8 +117,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="119">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -276,7 +276,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543461271895" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543462112871" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -1037,12 +1037,12 @@
       <workItem from="1542766576999" duration="2597000" />
       <workItem from="1543264757877" duration="599000" />
       <workItem from="1543280587678" duration="5229000" />
-      <workItem from="1543458691479" duration="2563000" />
+      <workItem from="1543458691479" duration="3294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49630000" />
+    <option name="totallyTimeSpent" value="50361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -1467,8 +1467,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
